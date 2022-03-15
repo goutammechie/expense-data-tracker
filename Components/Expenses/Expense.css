@@ -1,0 +1,18 @@
+.expense {
+  padding: 1rem;
+  background-color: black;
+  margin: 1rem auto;
+  width: 60rem;
+  max-width: 95%;
+  border: 2px solid wheat;
+}
+
+.expense:hover {
+  box-shadow: 0 2px 8px white;
+  border-radius: 12px;
+}
+
+p {
+  color: wheat;
+  font-weight: 600;
+}

@@ -1,0 +1,22 @@
+.calen {
+  height: 75px;
+  width: 100px;
+  border: 2px solid wheat;
+  border-width: 2px;
+  color: white;
+}
+
+.date {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.month {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.year {
+  font-size: 20px;
+  font-weight: 800;
+}

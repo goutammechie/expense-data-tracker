@@ -1,0 +1,21 @@
+.expense_filter {
+  display: flex;
+  justify-content: flex-end;
+  text-align: center;
+  text-align: left;
+}
+.expense_filter_filter {
+  border-radius: 10px;
+  height: 40px;
+  width: 120px;
+  cursor: pointer;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  text-align: center;
+}
+.expense_filter_filter select {
+  border-color: wheat;
+  border-radius: 10px;
+  background-color: blueviolet;
+}
